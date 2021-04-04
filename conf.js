@@ -6,7 +6,7 @@ module.exports = {
     "settings":{
         "user_name":"User_1",
         "password":"52vFDZKOHlSubQga",
-        "url": 'mongodb+srv://User_1:52vFDZKOHlSubQga@cluster0.ggug8.mongodb.net/Users?retryWrites=true&w=majority'
+        "url": ''
 
 
     }
