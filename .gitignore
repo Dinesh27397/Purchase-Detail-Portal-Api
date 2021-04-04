@@ -1,0 +1,59 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+/package-lock.json
+/webapps/plugins/multiple-emails/.gitattributes
+/webapps/plugins/toastify-js-master/.gitattributes
+/webapps/plugins/multiple-emails/.gitignore
+/webapps/plugins/toastify-js-master/.gitignore
+/webapps/plugins/toastify-js-master/.prettierrc
+/webapps/plugins/toastify-js-master/.travis.yml
+/webapps/plugins/toastify-js-master/CHANGELOG.md
+/webapps/plugins/multiple-emails/example.html
+/webapps/plugins/toastify-js-master/index.html
+/webapps/plugins/toastify-js-master/LICENSE
+/webapps/plugins/multiple-emails/LICENSE.MD
+/webapps/plugins/toastify-js-master/package.json
+/webapps/plugins/toastify-js-master/example/pattern.png
+/webapps/plugins/multiple-emails/README.md
+/webapps/plugins/toastify-js-master/README.md
+/webapps/plugins/toastify-js-master/example/script.css
+/webapps/plugins/toastify-js-master/example/script.js
